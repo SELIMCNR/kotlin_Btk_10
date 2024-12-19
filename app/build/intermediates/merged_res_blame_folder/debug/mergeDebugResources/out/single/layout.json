@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\btk02\\.gradle\\daemon\\8.7\\com.example.kotlin_btk_10.app-mergeDebugResources-55:\\layout\\fragment_besin_detay.xml",
+        "source": "C:\\Users\\btk02\\.gradle\\daemon\\8.7\\com.example.kotlin_btk_10.app-main-58:\\layout\\fragment_besin_detay.xml"
+    },
+    {
+        "merged": "C:\\Users\\btk02\\.gradle\\daemon\\8.7\\com.example.kotlin_btk_10.app-mergeDebugResources-55:\\layout\\fragment_besin_liste.xml",
+        "source": "C:\\Users\\btk02\\.gradle\\daemon\\8.7\\com.example.kotlin_btk_10.app-main-58:\\layout\\fragment_besin_liste.xml"
+    },
+    {
+        "merged": "C:\\Users\\btk02\\.gradle\\daemon\\8.7\\com.example.kotlin_btk_10.app-mergeDebugResources-55:\\layout\\besin_recycler_row.xml",
+        "source": "C:\\Users\\btk02\\.gradle\\daemon\\8.7\\com.example.kotlin_btk_10.app-main-58:\\layout\\besin_recycler_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\btk02\\.gradle\\daemon\\8.7\\com.example.kotlin_btk_10.app-mergeDebugResources-55:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\btk02\\.gradle\\daemon\\8.7\\com.example.kotlin_btk_10.app-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.kotlin_btk_10.app-mergeDebugResources-55:/layout/fragment_besin_liste.xml",
+        "source": "com.example.kotlin_btk_10.app-main-58:/layout/fragment_besin_liste.xml"
+    }
+]
